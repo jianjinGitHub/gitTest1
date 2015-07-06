@@ -1,5 +1,4 @@
-package com.coohua;
-
+package myFirstGit;
 public class FunctionVo implements Cloneable {
 
 	/**
